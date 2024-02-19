@@ -1,4 +1,4 @@
-# Proyecto: Cliente gRPC para búsqueda de números primos & Servidor gRPC para búsqueda de números primos
+# Proyecto: Cliente & Servidor gRPC para búsqueda de números primos
 Este proyecto es un cliente gRPC que se comunica con un servidor para obtener rangos de números y buscar números primos dentro de esos rangos.
 Server: Este proyecto es un servidor gRPC que proporciona rangos de números a los clientes para buscar números primos y recibe los resultados de la búsqueda.
 
